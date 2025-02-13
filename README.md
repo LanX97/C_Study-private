@@ -1,5 +1,5 @@
 # C_Study
- 一个私人仓库，用于存放学习过程中写过的代码
+ 一个私人仓库，用于存放学习过程中写过的代码  
 Since 2025 1/28
 
 <div align=center><img width="150" height="150" src="https://github.com/user-attachments/assets/5257846a-6d6a-41fc-85c3-65d41ea0c7c5"/></div>
