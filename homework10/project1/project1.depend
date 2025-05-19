@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1747644498 source:d:\hw\project1\main.c
-	"stdio.h"
-	"time.h"
-	"stdlib.h"
-	"myhead.h"
-
-1747646002 d:\hw\project1\myhead.h
-
